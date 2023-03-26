@@ -146,7 +146,7 @@ def main():
 
     predict_button = st.button('Generete Captions',use_container_width=True)
 
-    if predict_caption:
+    if predict_button:
         if img_file_buffer:
             extraction_model = load_extraction_model()
             model, vocab = load_prediction_model()
