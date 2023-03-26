@@ -7,11 +7,7 @@ The generated captions can be viewed in a Streamlit app that is also included in
 ### Dependencies
 The project requires the following dependencies:
 
-Python 3.7 or later
-TensorFlow 2.4.1 or later
-Streamlit 0.82.0 or later
-NumPy 1.19.5 or later
-Pillow 8.1.0 or later
+Python 3.7, TensorFlow, Keras and Streamlit
 
 ### Usage
 #### 1. Clone the repository to your local machine:
